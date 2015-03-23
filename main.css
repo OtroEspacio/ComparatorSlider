@@ -1,0 +1,15 @@
+.firstImage {
+  width: 960px;
+  height: 400px;
+  background-image: url("http://www.tnetnoc.com/public/ANS/Dynaflex/Images/HCL/SEO/mktg/travel-photography/interview/Vintage_Camera.jpg");
+  margin: 0 auto;
+  cursor: e-resize;
+}
+.firstImage .secondImage {
+  width: 500px;
+  height: 400px;
+  overflow: hidden;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
