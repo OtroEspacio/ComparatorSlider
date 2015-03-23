@@ -8,11 +8,11 @@ This easy to use comparator slider requires you to place the two images to compa
 
 ### main.css
 
-In line # place the url path to one of the images to compare.
+In line #4 place the url path to one of the images to compare.
 
 ### index.html
 
-In line # place the url path to the other image you want to compare.
+In line #11 place the url path to the other image you want to compare.
 
 ## Credits
 
@@ -22,7 +22,7 @@ Develop by Ricardo Ordoñez - rijordel@gmail.com
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Otro Espacio
+Copyright (c) 2015 Otro Espacio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
