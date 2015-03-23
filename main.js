@@ -9,5 +9,5 @@ $(document).ready(function() {
 function getMousePosition(event) {
   var x = event.clientX;
   x = x-resultWidth;
-  document.getElementsByClassName("secondImage")[0].style.width = x+"px";
+  $(".secondImage").width(x+"px");
 }
