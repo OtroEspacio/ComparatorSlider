@@ -8,11 +8,11 @@ This easy to use comparator slider requires you to place the two images to compa
 
 ### main.css
 
-In line # place the url path to one of the images to compare.
+In line #4 place the url path to one of the images to compare.
 
 ### index.html
 
-In line # place the url path to the other image you want to compare.
+In line #11 place the url path to the other image you want to compare.
 
 ## Credits
 
